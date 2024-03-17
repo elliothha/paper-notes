@@ -3,7 +3,7 @@
 
 *[3/16/24 Update]:* 
 
-*Currently still a senior in college dying with my workload, so proper notes won't be started until I have time (read: who knows?) to rigorously go through all the papers again. So currently, this repo will just serve as a place to document and sort the papers I've read into their respective categories. Think of it as a mind-map of sorts except a really shitty one in a markdown file. Anyway, really hoping I get a job in this field so I don't have to ever leave it.*
+*Currently still a senior in college dying with my workload, so transferring my handwritten notes to markdown files won't be started until I have time (read: who knows?) to rigorously go through all my work and the papers again. So currently, this repo will just serve as a place to document and sort the papers I've read into their respective categories. Think of it as a mind-map of sorts except a really shitty one in a markdown file. Anyway, really hoping I get a job in this field so I don't have to ever leave it.*
 
 *With love,*
 
