@@ -78,7 +78,7 @@ Somewhat doing this for posterity's sake as I want a permanent record of the thi
 
 ## Computer Vision
 ### 2015
-- "YOLO" -- *You Only Look Once: Unified, Real-Time Object Detection*, Redmon et al., Jun 2015| [1506.02640](https://arxiv.org/abs/1506.02640)
+- "YOLO" -- *You Only Look Once: Unified, Real-Time Object Detection*, Redmon et al., Jun 2015 | [1506.02640](https://arxiv.org/abs/1506.02640)
 
 ### 2012
 - "AlexNet" -- *ImageNet Classification with Deep Convolutional Neural Networks*, Krizhevsky et al., Sep 2012 | [NeurIPS](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
